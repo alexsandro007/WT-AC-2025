@@ -9,7 +9,7 @@
 
 Веб-приложение для поиска ТВ-шоу с async/await, retry, таймаутами, AbortController и in-memory кэшированием с TTL.
 
-**Публикация:** https://alexsandro007.github.io/WT-AC-2025/students/YarmolaAleksandr/task_03/src/
+**Публикация:** https://alexsandro007.github.io/all_tasks_v23/task_03/src/index.html
 
 ![Preview](./screenshots/preview.png)
 
